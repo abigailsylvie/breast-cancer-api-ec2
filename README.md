@@ -13,7 +13,7 @@ The goal is to show how a machine learning model can be trained, turned into an 
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 - **Python**  
 - **FastAPI**  
 - **Scikit-Learn**  
@@ -28,6 +28,3 @@ The goal is to show how a machine learning model can be trained, turned into an 
 3. The trained model is saved and loaded inside a FastAPI app.  
 4. The API is deployed on an AWS EC2 instance.  
 
----
-
-## 📁 Project Structure
